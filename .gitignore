@@ -1,0 +1,13 @@
+# Node
+node_modules/
+*.log
+
+# React build
+frontend/build/
+
+# Tracker file
+backend/tracker.txt
+
+# OS
+.DS_Store
+
